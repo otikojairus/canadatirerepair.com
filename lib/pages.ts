@@ -347,6 +347,6 @@ export function serviceBaseSlug(slug: string) {
 }
 
 export function absoluteUrl(path = "") {
-  const root = process.env.NEXT_PUBLIC_SITE_URL || "https://canadatirerepair.com";
+  const root = process.env.NEXT_PUBLIC_SITE_URL || "https://tireservicepros.com";
   return `${root.replace(/\/$/, "")}/${path.replace(/^\//, "")}`;
 }

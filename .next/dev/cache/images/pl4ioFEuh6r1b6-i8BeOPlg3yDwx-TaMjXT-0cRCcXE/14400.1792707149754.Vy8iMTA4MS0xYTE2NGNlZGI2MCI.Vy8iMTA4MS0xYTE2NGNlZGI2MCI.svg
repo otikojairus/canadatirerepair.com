@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a2030"/>
+      <stop offset="100%" stop-color="#0c0e14"/>
+    </linearGradient>
+    <linearGradient id="beacon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffb020"/>
+      <stop offset="100%" stop-color="#ff6b2c"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#e8ecf1"/>
+  
+    <rect x="240" y="300" width="520" height="280" rx="16" fill="#1a1f2b"/>
+    <rect x="280" y="340" width="440" height="160" rx="8" fill="#2d3548"/>
+    <rect x="320" y="520" width="80" height="40" fill="#4a5568"/>
+    <rect x="600" y="520" width="80" height="40" fill="#4a5568"/>
+    
+    <circle cx="980" cy="580" r="160" fill="#2a2f3a"/>
+    <line x1="1132" y1="580" x2="1140" y2="580" stroke="#3d4556" stroke-width="5"/><line x1="1126.8207255959383" y1="619.3404948555832" x2="1134.548132206251" y2="621.4110472164033" stroke="#3d4556" stroke-width="5"/><line x1="1111.6358613752348" y1="656" x2="1118.56406460551" y2="660" stroke="#3d4556" stroke-width="5"/><line x1="1087.4802307403552" y1="687.4802307403552" x2="1093.1370849898476" y2="693.1370849898476" stroke="#3d4556" stroke-width="5"/><line x1="1056" y1="711.6358613752346" x2="1060" y2="718.5640646055101" stroke="#3d4556" stroke-width="5"/><line x1="1019.3404948555832" y1="726.8207255959384" x2="1021.4110472164033" y2="734.5481322062509" stroke="#3d4556" stroke-width="5"/><line x1="980" y1="732" x2="980" y2="740" stroke="#3d4556" stroke-width="5"/><line x1="940.6595051444168" y1="726.8207255959384" x2="938.5889527835967" y2="734.5481322062509" stroke="#3d4556" stroke-width="5"/><line x1="904" y1="711.6358613752348" x2="900" y2="718.5640646055102" stroke="#3d4556" stroke-width="5"/><line x1="872.5197692596448" y1="687.4802307403552" x2="866.8629150101524" y2="693.1370849898476" stroke="#3d4556" stroke-width="5"/><line x1="848.3641386247652" y1="656" x2="841.4359353944898" y2="660" stroke="#3d4556" stroke-width="5"/><line x1="833.1792744040616" y1="619.3404948555832" x2="825.4518677937491" y2="621.4110472164034" stroke="#3d4556" stroke-width="5"/><line x1="828" y1="580" x2="820" y2="580" stroke="#3d4556" stroke-width="5"/><line x1="833.1792744040616" y1="540.6595051444169" x2="825.451867793749" y2="538.5889527835967" stroke="#3d4556" stroke-width="5"/><line x1="848.3641386247654" y1="504" x2="841.4359353944899" y2="500" stroke="#3d4556" stroke-width="5"/><line x1="872.5197692596447" y1="472.5197692596448" x2="866.8629150101524" y2="466.8629150101524" stroke="#3d4556" stroke-width="5"/><line x1="903.9999999999999" y1="448.36413862476536" x2="899.9999999999999" y2="441.43593539448983" stroke="#3d4556" stroke-width="5"/><line x1="940.6595051444168" y1="433.17927440406163" x2="938.5889527835967" y2="425.4518677937491" stroke="#3d4556" stroke-width="5"/><line x1="980" y1="428" x2="980" y2="420" stroke="#3d4556" stroke-width="5"/><line x1="1019.3404948555831" y1="433.17927440406163" x2="1021.4110472164033" y2="425.45186779374905" stroke="#3d4556" stroke-width="5"/><line x1="1056" y1="448.36413862476536" x2="1060" y2="441.43593539448983" stroke="#3d4556" stroke-width="5"/><line x1="1087.4802307403552" y1="472.51976925964476" x2="1093.1370849898476" y2="466.8629150101524" stroke="#3d4556" stroke-width="5"/><line x1="1111.6358613752345" y1="503.99999999999994" x2="1118.56406460551" y2="499.99999999999994" stroke="#3d4556" stroke-width="5"/><line x1="1126.8207255959383" y1="540.6595051444168" x2="1134.548132206251" y2="538.5889527835967" stroke="#3d4556" stroke-width="5"/>
+    <circle cx="980" cy="580" r="146" fill="none" stroke="#3d4556" stroke-width="3"/>
+    <circle cx="980" cy="580" r="88" fill="#1a1f2b"/>
+    <circle cx="980" cy="580" r="70" fill="none" stroke="#4a5568" stroke-width="6"/>
+  
+    
+    <text x="80" y="120" fill="#1c2433" font-family="system-ui,sans-serif" font-size="52" font-weight="800">Mobile tire service</text>
+    <text x="80" y="172" fill="#ff6b2c" font-family="system-ui,sans-serif" font-size="30" font-weight="600">Driveway · lot · job site</text>
+  
+  
+</svg>

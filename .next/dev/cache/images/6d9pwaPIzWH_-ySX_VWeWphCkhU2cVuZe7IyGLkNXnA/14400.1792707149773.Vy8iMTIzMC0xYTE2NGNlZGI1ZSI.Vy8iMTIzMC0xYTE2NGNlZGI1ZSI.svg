@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a2030"/>
+      <stop offset="100%" stop-color="#0c0e14"/>
+    </linearGradient>
+    <linearGradient id="beacon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffb020"/>
+      <stop offset="100%" stop-color="#ff6b2c"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#e8ecf1"/>
+  
+    
+    <rect x="0" y="760" width="1400" height="290" fill="#0c0e14"/>
+    <rect x="0" y="760" width="1400" height="8" fill="#4a5568"/>
+    <rect x="120" y="880" width="180" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="420" y="880" width="120" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="620" y="880" width="200" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="920" y="880" width="140" height="12" fill="#ffb020" opacity="0.9"/>
+  
+    
+    <circle cx="520" cy="580" r="160" fill="#2a2f3a"/>
+    <line x1="672" y1="580" x2="680" y2="580" stroke="#3d4556" stroke-width="5"/><line x1="666.8207255959384" y1="619.3404948555832" x2="674.5481322062509" y2="621.4110472164033" stroke="#3d4556" stroke-width="5"/><line x1="651.6358613752348" y1="656" x2="658.5640646055102" y2="660" stroke="#3d4556" stroke-width="5"/><line x1="627.4802307403552" y1="687.4802307403552" x2="633.1370849898476" y2="693.1370849898476" stroke="#3d4556" stroke-width="5"/><line x1="596" y1="711.6358613752346" x2="600" y2="718.5640646055101" stroke="#3d4556" stroke-width="5"/><line x1="559.3404948555832" y1="726.8207255959384" x2="561.4110472164033" y2="734.5481322062509" stroke="#3d4556" stroke-width="5"/><line x1="520" y1="732" x2="520" y2="740" stroke="#3d4556" stroke-width="5"/><line x1="480.6595051444168" y1="726.8207255959384" x2="478.58895278359665" y2="734.5481322062509" stroke="#3d4556" stroke-width="5"/><line x1="444" y1="711.6358613752348" x2="440" y2="718.5640646055102" stroke="#3d4556" stroke-width="5"/><line x1="412.5197692596448" y1="687.4802307403552" x2="406.8629150101524" y2="693.1370849898476" stroke="#3d4556" stroke-width="5"/><line x1="388.3641386247653" y1="656" x2="381.4359353944898" y2="660" stroke="#3d4556" stroke-width="5"/><line x1="373.17927440406163" y1="619.3404948555832" x2="365.4518677937491" y2="621.4110472164034" stroke="#3d4556" stroke-width="5"/><line x1="368" y1="580" x2="360" y2="580" stroke="#3d4556" stroke-width="5"/><line x1="373.17927440406163" y1="540.6595051444169" x2="365.45186779374905" y2="538.5889527835967" stroke="#3d4556" stroke-width="5"/><line x1="388.36413862476536" y1="504" x2="381.43593539448983" y2="500" stroke="#3d4556" stroke-width="5"/><line x1="412.51976925964476" y1="472.5197692596448" x2="406.8629150101524" y2="466.8629150101524" stroke="#3d4556" stroke-width="5"/><line x1="443.99999999999994" y1="448.36413862476536" x2="439.99999999999994" y2="441.43593539448983" stroke="#3d4556" stroke-width="5"/><line x1="480.65950514441687" y1="433.17927440406163" x2="478.5889527835967" y2="425.4518677937491" stroke="#3d4556" stroke-width="5"/><line x1="520" y1="428" x2="520" y2="420" stroke="#3d4556" stroke-width="5"/><line x1="559.3404948555831" y1="433.17927440406163" x2="561.4110472164033" y2="425.45186779374905" stroke="#3d4556" stroke-width="5"/><line x1="596" y1="448.36413862476536" x2="600" y2="441.43593539448983" stroke="#3d4556" stroke-width="5"/><line x1="627.4802307403552" y1="472.51976925964476" x2="633.1370849898476" y2="466.8629150101524" stroke="#3d4556" stroke-width="5"/><line x1="651.6358613752346" y1="503.99999999999994" x2="658.5640646055101" y2="499.99999999999994" stroke="#3d4556" stroke-width="5"/><line x1="666.8207255959384" y1="540.6595051444168" x2="674.5481322062509" y2="538.5889527835967" stroke="#3d4556" stroke-width="5"/>
+    <circle cx="520" cy="580" r="146" fill="none" stroke="#3d4556" stroke-width="3"/>
+    <circle cx="520" cy="580" r="88" fill="#1a1f2b"/>
+    <circle cx="520" cy="580" r="70" fill="none" stroke="#4a5568" stroke-width="6"/>
+  
+    <rect x="780" y="320" width="480" height="320" rx="16" fill="#1a1f2b"/>
+    <text x="820" y="400" fill="#eef1f6" font-family="system-ui,sans-serif" font-size="40" font-weight="800">Mobile tire tech</text>
+    <text x="820" y="455" fill="#5eead4" font-family="system-ui,sans-serif" font-size="26">Puncture · flat · swap spare</text>
+    <rect x="820" y="500" width="200" height="48" rx="8" fill="url(#beacon)"/>
+    <text x="870" y="533" fill="#0c0e14" font-family="system-ui,sans-serif" font-size="22" font-weight="800">On-site</text>
+  
+</svg>

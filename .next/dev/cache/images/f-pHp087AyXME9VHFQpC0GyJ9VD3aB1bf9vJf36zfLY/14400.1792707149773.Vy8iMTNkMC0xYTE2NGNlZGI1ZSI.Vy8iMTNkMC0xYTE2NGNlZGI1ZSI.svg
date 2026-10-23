@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a2030"/>
+      <stop offset="100%" stop-color="#0c0e14"/>
+    </linearGradient>
+    <linearGradient id="beacon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffb020"/>
+      <stop offset="100%" stop-color="#ff6b2c"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#e8ecf1"/>
+  
+    <rect width="100%" height="100%" fill="#0c0e14"/>
+    
+    <rect x="0" y="700" width="1400" height="350" fill="#0c0e14"/>
+    <rect x="0" y="700" width="1400" height="8" fill="#4a5568"/>
+    <rect x="120" y="820" width="180" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="420" y="820" width="120" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="620" y="820" width="200" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="920" y="820" width="140" height="12" fill="#ffb020" opacity="0.9"/>
+  
+    
+    <polygon points="380,620 413.6,704 346.4,704" fill="#ffb020"/>
+    <rect x="341.6" y="701.6" width="76.8" height="12" fill="#1c2433"/>
+    <rect x="358.4" y="646.4" width="43.199999999999996" height="9.6" fill="#eef1f6" opacity="0.9"/>
+  
+    
+    <polygon points="480,640 508,710 452,710" fill="#ffb020"/>
+    <rect x="448" y="708" width="64" height="10" fill="#1c2433"/>
+    <rect x="462" y="662" width="36" height="8" fill="#eef1f6" opacity="0.9"/>
+  
+    
+    <circle cx="720" cy="560" r="150" fill="#2a2f3a"/>
+    <line x1="862" y1="560" x2="870" y2="560" stroke="#3d4556" stroke-width="5"/><line x1="857.1614673330478" y1="596.7523044045579" x2="864.8888739433603" y2="598.8228567653781" stroke="#3d4556" stroke-width="5"/><line x1="842.9756073373903" y1="631" x2="849.9038105676658" y2="635" stroke="#3d4556" stroke-width="5"/><line x1="820.4091629284898" y1="660.4091629284898" x2="826.0660171779821" y2="666.0660171779821" stroke="#3d4556" stroke-width="5"/><line x1="791" y1="682.9756073373903" x2="795" y2="689.9038105676658" stroke="#3d4556" stroke-width="5"/><line x1="756.7523044045579" y1="697.1614673330478" x2="758.8228567653781" y2="704.8888739433603" stroke="#3d4556" stroke-width="5"/><line x1="720" y1="702" x2="720" y2="710" stroke="#3d4556" stroke-width="5"/><line x1="683.247695595442" y1="697.1614673330478" x2="681.1771432346219" y2="704.8888739433603" stroke="#3d4556" stroke-width="5"/><line x1="649" y1="682.9756073373903" x2="645" y2="689.9038105676658" stroke="#3d4556" stroke-width="5"/><line x1="619.5908370715102" y1="660.4091629284898" x2="613.9339828220179" y2="666.0660171779821" stroke="#3d4556" stroke-width="5"/><line x1="597.0243926626097" y1="631" x2="590.0961894323342" y2="635" stroke="#3d4556" stroke-width="5"/><line x1="582.8385326669523" y1="596.752304404558" x2="575.1111260566397" y2="598.8228567653781" stroke="#3d4556" stroke-width="5"/><line x1="578" y1="560" x2="570" y2="560" stroke="#3d4556" stroke-width="5"/><line x1="582.8385326669522" y1="523.2476955954421" x2="575.1111260566397" y2="521.1771432346219" stroke="#3d4556" stroke-width="5"/><line x1="597.0243926626097" y1="489" x2="590.0961894323342" y2="485" stroke="#3d4556" stroke-width="5"/><line x1="619.5908370715102" y1="459.59083707151024" x2="613.9339828220178" y2="453.93398282201787" stroke="#3d4556" stroke-width="5"/><line x1="649" y1="437.0243926626097" x2="644.9999999999999" y2="430.0961894323342" stroke="#3d4556" stroke-width="5"/><line x1="683.2476955954421" y1="422.8385326669523" x2="681.1771432346219" y2="415.11112605663976" stroke="#3d4556" stroke-width="5"/><line x1="720" y1="418" x2="720" y2="410" stroke="#3d4556" stroke-width="5"/><line x1="756.7523044045579" y1="422.8385326669523" x2="758.822856765378" y2="415.1111260566397" stroke="#3d4556" stroke-width="5"/><line x1="791" y1="437.0243926626097" x2="795" y2="430.0961894323342" stroke="#3d4556" stroke-width="5"/><line x1="820.4091629284898" y1="459.59083707151024" x2="826.0660171779821" y2="453.93398282201787" stroke="#3d4556" stroke-width="5"/><line x1="842.9756073373902" y1="488.99999999999994" x2="849.9038105676657" y2="484.99999999999994" stroke="#3d4556" stroke-width="5"/><line x1="857.1614673330478" y1="523.2476955954421" x2="864.8888739433603" y2="521.1771432346219" stroke="#3d4556" stroke-width="5"/>
+    <circle cx="720" cy="560" r="136" fill="none" stroke="#3d4556" stroke-width="3"/>
+    <circle cx="720" cy="560" r="82.5" fill="#1a1f2b"/>
+    <circle cx="720" cy="560" r="64.5" fill="none" stroke="#4a5568" stroke-width="6"/>
+  
+    <polygon points="600,420 640,500 560,500" fill="#ff4533"/>
+    <text x="608" y="488" fill="#eef1f6" font-family="system-ui,sans-serif" font-size="28" font-weight="800">!</text>
+    
+    <text x="80" y="140" fill="#1c2433" font-family="system-ui,sans-serif" font-size="52" font-weight="800">Emergency tire</text>
+    <text x="80" y="192" fill="#ff6b2c" font-family="system-ui,sans-serif" font-size="30" font-weight="600">Shoulder safe · call dispatch</text>
+  
+  
+</svg>

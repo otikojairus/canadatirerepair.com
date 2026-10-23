@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a2030"/>
+      <stop offset="100%" stop-color="#0c0e14"/>
+    </linearGradient>
+    <linearGradient id="beacon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffb020"/>
+      <stop offset="100%" stop-color="#ff6b2c"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#e8ecf1"/>
+  
+    <rect width="100%" height="100%" fill="#060810"/>
+    
+    <rect x="0" y="720" width="1400" height="330" fill="#0c0e14"/>
+    <rect x="0" y="720" width="1400" height="8" fill="#4a5568"/>
+    <rect x="120" y="840" width="180" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="420" y="840" width="120" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="620" y="840" width="200" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="920" y="840" width="140" height="12" fill="#ffb020" opacity="0.9"/>
+  
+    <circle cx="200" cy="180" r="60" fill="#ffb020" opacity="0.35"/>
+    <circle cx="1180" cy="220" r="40" fill="#5eead4" opacity="0.25"/>
+    
+    <circle cx="620" cy="540" r="170" fill="#2a2f3a"/>
+    <line x1="782" y1="540" x2="790" y2="540" stroke="#3d4556" stroke-width="5"/><line x1="776.4799838588291" y1="581.9286853066084" x2="784.2073904691416" y2="583.9992376674285" stroke="#3d4556" stroke-width="5"/><line x1="760.2961154130791" y1="621" x2="767.2243186433545" y2="625" stroke="#3d4556" stroke-width="5"/><line x1="734.5512985522207" y1="654.5512985522207" x2="740.2081528017131" y2="660.208152801713" stroke="#3d4556" stroke-width="5"/><line x1="701" y1="680.2961154130791" x2="705" y2="687.2243186433545" stroke="#3d4556" stroke-width="5"/><line x1="661.9286853066084" y1="696.4799838588291" x2="663.9992376674285" y2="704.2073904691416" stroke="#3d4556" stroke-width="5"/><line x1="620" y1="702" x2="620" y2="710" stroke="#3d4556" stroke-width="5"/><line x1="578.0713146933916" y1="696.4799838588291" x2="576.0007623325714" y2="704.2073904691416" stroke="#3d4556" stroke-width="5"/><line x1="539" y1="680.2961154130791" x2="535" y2="687.2243186433545" stroke="#3d4556" stroke-width="5"/><line x1="505.4487014477793" y1="654.5512985522207" x2="499.7918471982869" y2="660.2081528017131" stroke="#3d4556" stroke-width="5"/><line x1="479.70388458692094" y1="621" x2="472.7756813566454" y2="625" stroke="#3d4556" stroke-width="5"/><line x1="463.5200161411709" y1="581.9286853066084" x2="455.7926095308584" y2="583.9992376674286" stroke="#3d4556" stroke-width="5"/><line x1="458" y1="540" x2="450" y2="540" stroke="#3d4556" stroke-width="5"/><line x1="463.5200161411709" y1="498.0713146933917" x2="455.7926095308584" y2="496.0007623325715" stroke="#3d4556" stroke-width="5"/><line x1="479.70388458692094" y1="459" x2="472.77568135664546" y2="455" stroke="#3d4556" stroke-width="5"/><line x1="505.4487014477793" y1="425.4487014477793" x2="499.79184719828686" y2="419.7918471982869" stroke="#3d4556" stroke-width="5"/><line x1="538.9999999999999" y1="399.70388458692094" x2="534.9999999999999" y2="392.77568135664546" stroke="#3d4556" stroke-width="5"/><line x1="578.0713146933916" y1="383.5200161411709" x2="576.0007623325715" y2="375.7926095308584" stroke="#3d4556" stroke-width="5"/><line x1="620" y1="378" x2="620" y2="370" stroke="#3d4556" stroke-width="5"/><line x1="661.9286853066083" y1="383.5200161411709" x2="663.9992376674285" y2="375.7926095308584" stroke="#3d4556" stroke-width="5"/><line x1="701" y1="399.70388458692094" x2="705" y2="392.77568135664546" stroke="#3d4556" stroke-width="5"/><line x1="734.5512985522207" y1="425.4487014477793" x2="740.208152801713" y2="419.79184719828686" stroke="#3d4556" stroke-width="5"/><line x1="760.296115413079" y1="458.99999999999994" x2="767.2243186433545" y2="454.99999999999994" stroke="#3d4556" stroke-width="5"/><line x1="776.4799838588291" y1="498.0713146933916" x2="784.2073904691416" y2="496.00076233257147" stroke="#3d4556" stroke-width="5"/>
+    <circle cx="620" cy="540" r="156" fill="none" stroke="#3d4556" stroke-width="3"/>
+    <circle cx="620" cy="540" r="93.50000000000001" fill="#1a1f2b"/>
+    <circle cx="620" cy="540" r="75.50000000000001" fill="none" stroke="#4a5568" stroke-width="6"/>
+  
+    <rect x="900" y="380" width="360" height="160" rx="12" fill="#1a1f2b"/>
+    <text x="940" y="450" fill="#eef1f6" font-family="system-ui,sans-serif" font-size="48" font-weight="800">24 / 7</text>
+    <text x="940" y="500" fill="#ffb020" font-family="system-ui,sans-serif" font-size="26">Night roadside</text>
+  
+</svg>

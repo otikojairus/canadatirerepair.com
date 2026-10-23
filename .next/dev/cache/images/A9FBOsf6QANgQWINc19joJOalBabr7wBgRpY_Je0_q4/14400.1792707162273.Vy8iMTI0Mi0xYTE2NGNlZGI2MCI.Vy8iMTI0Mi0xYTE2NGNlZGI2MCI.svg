@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a2030"/>
+      <stop offset="100%" stop-color="#0c0e14"/>
+    </linearGradient>
+    <linearGradient id="beacon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffb020"/>
+      <stop offset="100%" stop-color="#ff6b2c"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#e8ecf1"/>
+  
+    
+    <rect x="0" y="760" width="1400" height="290" fill="#0c0e14"/>
+    <rect x="0" y="760" width="1400" height="8" fill="#4a5568"/>
+    <rect x="120" y="880" width="180" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="420" y="880" width="120" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="620" y="880" width="200" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="920" y="880" width="140" height="12" fill="#ffb020" opacity="0.9"/>
+  
+    <ellipse cx="400" cy="480" rx="200" ry="60" fill="#1a1f2b" opacity="0.9"/>
+    
+    <circle cx="400" cy="680" r="140" fill="#2a2f3a"/>
+    <line x1="532" y1="680" x2="540" y2="680" stroke="#3d4556" stroke-width="5"/><line x1="527.502209070157" y1="714.1641139535327" x2="535.2296156804696" y2="716.2346663143529" stroke="#3d4556" stroke-width="5"/><line x1="514.3153532995459" y1="746" x2="521.2435565298214" y2="750" stroke="#3d4556" stroke-width="5"/><line x1="493.3380951166243" y1="773.3380951166242" x2="498.99494936611666" y2="778.9949493661167" stroke="#3d4556" stroke-width="5"/><line x1="466" y1="794.3153532995459" x2="470" y2="801.2435565298214" stroke="#3d4556" stroke-width="5"/><line x1="434.1641139535327" y1="807.502209070157" x2="436.2346663143529" y2="815.2296156804696" stroke="#3d4556" stroke-width="5"/><line x1="400" y1="812" x2="400" y2="820" stroke="#3d4556" stroke-width="5"/><line x1="365.83588604646724" y1="807.502209070157" x2="363.7653336856471" y2="815.2296156804696" stroke="#3d4556" stroke-width="5"/><line x1="334" y1="794.3153532995459" x2="330" y2="801.2435565298214" stroke="#3d4556" stroke-width="5"/><line x1="306.66190488337577" y1="773.3380951166242" x2="301.00505063388334" y2="778.9949493661167" stroke="#3d4556" stroke-width="5"/><line x1="285.6846467004541" y1="746" x2="278.75644347017857" y2="750" stroke="#3d4556" stroke-width="5"/><line x1="272.497790929843" y1="714.1641139535328" x2="264.7703843195304" y2="716.2346663143529" stroke="#3d4556" stroke-width="5"/><line x1="268" y1="680" x2="260" y2="680" stroke="#3d4556" stroke-width="5"/><line x1="272.49779092984295" y1="645.8358860464673" x2="264.7703843195304" y2="643.7653336856472" stroke="#3d4556" stroke-width="5"/><line x1="285.6846467004541" y1="614" x2="278.7564434701786" y2="610" stroke="#3d4556" stroke-width="5"/><line x1="306.6619048833757" y1="586.6619048833758" x2="301.00505063388334" y2="581.0050506338833" stroke="#3d4556" stroke-width="5"/><line x1="333.99999999999994" y1="565.6846467004541" x2="329.99999999999994" y2="558.7564434701786" stroke="#3d4556" stroke-width="5"/><line x1="365.8358860464673" y1="552.497790929843" x2="363.76533368564714" y2="544.7703843195304" stroke="#3d4556" stroke-width="5"/><line x1="400" y1="548" x2="400" y2="540" stroke="#3d4556" stroke-width="5"/><line x1="434.1641139535327" y1="552.497790929843" x2="436.23466631435286" y2="544.7703843195304" stroke="#3d4556" stroke-width="5"/><line x1="466" y1="565.6846467004541" x2="470" y2="558.7564434701786" stroke="#3d4556" stroke-width="5"/><line x1="493.33809511662423" y1="586.6619048833757" x2="498.99494936611666" y2="581.0050506338833" stroke="#3d4556" stroke-width="5"/><line x1="514.3153532995459" y1="614" x2="521.2435565298214" y2="610" stroke="#3d4556" stroke-width="5"/><line x1="527.502209070157" y1="645.8358860464673" x2="535.2296156804696" y2="643.7653336856471" stroke="#3d4556" stroke-width="5"/>
+    <circle cx="400" cy="680" r="126" fill="none" stroke="#3d4556" stroke-width="3"/>
+    <circle cx="400" cy="680" r="77" fill="#1a1f2b"/>
+    <circle cx="400" cy="680" r="59" fill="none" stroke="#4a5568" stroke-width="6"/>
+  
+    <circle cx="1050" cy="520" r="100" fill="none" stroke="#5eead4" stroke-width="8" stroke-dasharray="12 8"/>
+    <text x="990" y="530" fill="#5eead4" font-family="system-ui,sans-serif" font-size="22" font-weight="700">SPARE</text>
+    
+    <text x="80" y="120" fill="#1c2433" font-family="system-ui,sans-serif" font-size="52" font-weight="800">Repair or replace</text>
+    <text x="80" y="172" fill="#ff6b2c" font-family="system-ui,sans-serif" font-size="30" font-weight="600">Swap spare when casing is unsafe</text>
+  
+  
+</svg>

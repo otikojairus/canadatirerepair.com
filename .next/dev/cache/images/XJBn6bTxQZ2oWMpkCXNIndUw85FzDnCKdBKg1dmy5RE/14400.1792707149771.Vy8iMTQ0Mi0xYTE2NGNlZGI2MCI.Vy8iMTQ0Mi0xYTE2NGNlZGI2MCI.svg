@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a2030"/>
+      <stop offset="100%" stop-color="#0c0e14"/>
+    </linearGradient>
+    <linearGradient id="beacon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffb020"/>
+      <stop offset="100%" stop-color="#ff6b2c"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#e8ecf1"/>
+  
+    
+    <rect x="0" y="740" width="1400" height="310" fill="#0c0e14"/>
+    <rect x="0" y="740" width="1400" height="8" fill="#4a5568"/>
+    <rect x="120" y="860" width="180" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="420" y="860" width="120" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="620" y="860" width="200" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="920" y="860" width="140" height="12" fill="#ffb020" opacity="0.9"/>
+  
+    
+    <polygon points="300,600 328,670 272,670" fill="#ffb020"/>
+    <rect x="268" y="668" width="64" height="10" fill="#1c2433"/>
+    <rect x="282" y="622" width="36" height="8" fill="#eef1f6" opacity="0.9"/>
+  
+    
+    <polygon points="360,620 388,690 332,690" fill="#ffb020"/>
+    <rect x="328" y="688" width="64" height="10" fill="#1c2433"/>
+    <rect x="342" y="642" width="36" height="8" fill="#eef1f6" opacity="0.9"/>
+  
+    
+    <polygon points="900,610 930.8,687 869.2,687" fill="#ffb020"/>
+    <rect x="864.8" y="684.8" width="70.4" height="11" fill="#1c2433"/>
+    <rect x="880.2" y="634.2" width="39.6" height="8.8" fill="#eef1f6" opacity="0.9"/>
+  
+    <rect x="480" y="420" width="360" height="120" rx="8" fill="#1a1f2b"/>
+    <text x="520" y="495" fill="#eef1f6" font-family="system-ui,sans-serif" font-size="32" font-weight="800">Roadside assist</text>
+    
+    <circle cx="640" cy="620" r="120" fill="#2a2f3a"/>
+    <line x1="752" y1="620" x2="760" y2="620" stroke="#3d4556" stroke-width="5"/><line x1="748.1836925443756" y1="648.9877330514823" x2="755.9110991546881" y2="651.0582854123024" stroke="#3d4556" stroke-width="5"/><line x1="736.9948452238572" y1="676" x2="743.9230484541326" y2="680" stroke="#3d4556" stroke-width="5"/><line x1="719.1959594928933" y1="699.1959594928933" x2="724.8528137423857" y2="704.8528137423857" stroke="#3d4556" stroke-width="5"/><line x1="696" y1="716.9948452238572" x2="700" y2="723.9230484541326" stroke="#3d4556" stroke-width="5"/><line x1="668.9877330514823" y1="728.1836925443756" x2="671.0582854123024" y2="735.9110991546881" stroke="#3d4556" stroke-width="5"/><line x1="640" y1="732" x2="640" y2="740" stroke="#3d4556" stroke-width="5"/><line x1="611.0122669485177" y1="728.1836925443756" x2="608.9417145876974" y2="735.9110991546881" stroke="#3d4556" stroke-width="5"/><line x1="584" y1="716.9948452238572" x2="580" y2="723.9230484541326" stroke="#3d4556" stroke-width="5"/><line x1="560.8040405071067" y1="699.1959594928933" x2="555.1471862576143" y2="704.8528137423857" stroke="#3d4556" stroke-width="5"/><line x1="543.0051547761428" y1="676" x2="536.0769515458674" y2="680" stroke="#3d4556" stroke-width="5"/><line x1="531.8163074556244" y1="648.9877330514823" x2="524.0889008453119" y2="651.0582854123026" stroke="#3d4556" stroke-width="5"/><line x1="528" y1="620" x2="520" y2="620" stroke="#3d4556" stroke-width="5"/><line x1="531.8163074556244" y1="591.0122669485177" x2="524.0889008453117" y2="588.9417145876976" stroke="#3d4556" stroke-width="5"/><line x1="543.0051547761428" y1="564" x2="536.0769515458674" y2="560" stroke="#3d4556" stroke-width="5"/><line x1="560.8040405071067" y1="540.8040405071067" x2="555.1471862576143" y2="535.1471862576143" stroke="#3d4556" stroke-width="5"/><line x1="584" y1="523.005154776143" x2="580" y2="516.0769515458674" stroke="#3d4556" stroke-width="5"/><line x1="611.0122669485177" y1="511.8163074556244" x2="608.9417145876976" y2="504.0889008453118" stroke="#3d4556" stroke-width="5"/><line x1="640" y1="508" x2="640" y2="500" stroke="#3d4556" stroke-width="5"/><line x1="668.9877330514822" y1="511.8163074556243" x2="671.0582854123024" y2="504.0889008453118" stroke="#3d4556" stroke-width="5"/><line x1="696" y1="523.0051547761428" x2="700" y2="516.0769515458674" stroke="#3d4556" stroke-width="5"/><line x1="719.1959594928933" y1="540.8040405071067" x2="724.8528137423857" y2="535.1471862576143" stroke="#3d4556" stroke-width="5"/><line x1="736.994845223857" y1="564" x2="743.9230484541326" y2="560" stroke="#3d4556" stroke-width="5"/><line x1="748.1836925443756" y1="591.0122669485177" x2="755.9110991546881" y2="588.9417145876976" stroke="#3d4556" stroke-width="5"/>
+    <circle cx="640" cy="620" r="106" fill="none" stroke="#3d4556" stroke-width="3"/>
+    <circle cx="640" cy="620" r="66" fill="#1a1f2b"/>
+    <circle cx="640" cy="620" r="48" fill="none" stroke="#4a5568" stroke-width="6"/>
+  
+    
+    <text x="80" y="120" fill="#1c2433" font-family="system-ui,sans-serif" font-size="52" font-weight="800">Truck roadside</text>
+    <text x="80" y="172" fill="#ff6b2c" font-family="system-ui,sans-serif" font-size="30" font-weight="600">Cones · air · torque</text>
+  
+  
+</svg>

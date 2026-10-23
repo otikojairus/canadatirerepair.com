@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a2030"/>
+      <stop offset="100%" stop-color="#0c0e14"/>
+    </linearGradient>
+    <linearGradient id="beacon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffb020"/>
+      <stop offset="100%" stop-color="#ff6b2c"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#e8ecf1"/>
+  
+    
+    <rect x="0" y="760" width="1400" height="290" fill="#0c0e14"/>
+    <rect x="0" y="760" width="1400" height="8" fill="#4a5568"/>
+    <rect x="120" y="880" width="180" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="420" y="880" width="120" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="620" y="880" width="200" height="12" fill="#ffb020" opacity="0.9"/>
+    <rect x="920" y="880" width="140" height="12" fill="#ffb020" opacity="0.9"/>
+  
+    
+    <circle cx="620" cy="560" r="180" fill="#2a2f3a"/>
+    <line x1="792" y1="560" x2="800" y2="560" stroke="#3d4556" stroke-width="5"/><line x1="786.1392421217197" y1="604.5168757576336" x2="793.8666487320323" y2="606.5874281184538" stroke="#3d4556" stroke-width="5"/><line x1="768.9563694509235" y1="646" x2="775.884572681199" y2="650" stroke="#3d4556" stroke-width="5"/><line x1="741.6223663640861" y1="681.6223663640861" x2="747.2792206135786" y2="687.2792206135786" stroke="#3d4556" stroke-width="5"/><line x1="706" y1="708.9563694509234" x2="710" y2="715.884572681199" stroke="#3d4556" stroke-width="5"/><line x1="664.5168757576336" y1="726.1392421217197" x2="666.5874281184538" y2="733.8666487320323" stroke="#3d4556" stroke-width="5"/><line x1="620" y1="732" x2="620" y2="740" stroke="#3d4556" stroke-width="5"/><line x1="575.4831242423664" y1="726.1392421217197" x2="573.4125718815462" y2="733.8666487320323" stroke="#3d4556" stroke-width="5"/><line x1="534" y1="708.9563694509235" x2="530" y2="715.884572681199" stroke="#3d4556" stroke-width="5"/><line x1="498.37763363591387" y1="681.6223663640861" x2="492.72077938642144" y2="687.2792206135786" stroke="#3d4556" stroke-width="5"/><line x1="471.0436305490765" y1="646" x2="464.11542731880104" y2="650" stroke="#3d4556" stroke-width="5"/><line x1="453.8607578782803" y1="604.5168757576337" x2="446.1333512679677" y2="606.5874281184538" stroke="#3d4556" stroke-width="5"/><line x1="448" y1="560" x2="440" y2="560" stroke="#3d4556" stroke-width="5"/><line x1="453.8607578782802" y1="515.4831242423666" x2="446.13335126796767" y2="513.4125718815463" stroke="#3d4556" stroke-width="5"/><line x1="471.04363054907657" y1="474" x2="464.11542731880104" y2="470" stroke="#3d4556" stroke-width="5"/><line x1="498.3776336359138" y1="438.37763363591387" x2="492.72077938642144" y2="432.72077938642144" stroke="#3d4556" stroke-width="5"/><line x1="533.9999999999999" y1="411.04363054907657" x2="529.9999999999999" y2="404.11542731880104" stroke="#3d4556" stroke-width="5"/><line x1="575.4831242423664" y1="393.86075787828025" x2="573.4125718815462" y2="386.13335126796767" stroke="#3d4556" stroke-width="5"/><line x1="620" y1="388" x2="620" y2="380" stroke="#3d4556" stroke-width="5"/><line x1="664.5168757576334" y1="393.8607578782802" x2="666.5874281184537" y2="386.13335126796767" stroke="#3d4556" stroke-width="5"/><line x1="706" y1="411.04363054907657" x2="710" y2="404.11542731880104" stroke="#3d4556" stroke-width="5"/><line x1="741.6223663640861" y1="438.3776336359138" x2="747.2792206135786" y2="432.72077938642144" stroke="#3d4556" stroke-width="5"/><line x1="768.9563694509234" y1="473.99999999999994" x2="775.884572681199" y2="469.9999999999999" stroke="#3d4556" stroke-width="5"/><line x1="786.1392421217197" y1="515.4831242423664" x2="793.8666487320323" y2="513.4125718815462" stroke="#3d4556" stroke-width="5"/>
+    <circle cx="620" cy="560" r="166" fill="none" stroke="#3d4556" stroke-width="3"/>
+    <circle cx="620" cy="560" r="99.00000000000001" fill="#1a1f2b"/>
+    <circle cx="620" cy="560" r="81.00000000000001" fill="none" stroke="#4a5568" stroke-width="6"/>
+  
+    <path d="M520 480 L580 420 L640 500" stroke="#ff4533" stroke-width="6" fill="none"/>
+    <circle cx="580" cy="460" r="14" fill="#ff4533"/>
+    
+    <text x="80" y="120" fill="#1c2433" font-family="system-ui,sans-serif" font-size="52" font-weight="800">Flat tire</text>
+    <text x="80" y="172" fill="#ff6b2c" font-family="system-ui,sans-serif" font-size="30" font-weight="600">Stop driving on zero pressure</text>
+  
+  
+</svg>

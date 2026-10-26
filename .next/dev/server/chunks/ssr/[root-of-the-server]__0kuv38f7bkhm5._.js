@@ -485,8 +485,8 @@ const PAGES = [
 ];
 const NATIONAL_PAGES = PAGES.filter((p)=>p.kind === "national");
 const CITY_PAGES = PAGES.filter((p)=>p.kind === "city");
-const PHONE_DISPLAY_DEFAULT = "1-888-XXX-XXXX";
-const PHONE_E164_DEFAULT = "+1888XXXXXXX";
+const PHONE_DISPLAY_DEFAULT = "1-888-971-0910";
+const PHONE_E164_DEFAULT = "+18889710910";
 function isPlaceholderPhone(value) {
     return !value || /x{2,}/i.test(value) || value.includes("XXX");
 }
@@ -513,7 +513,7 @@ function serviceBaseSlug(slug) {
     return slug;
 }
 function absoluteUrl(path = "") {
-    const root = process.env.NEXT_PUBLIC_SITE_URL || "https://canadatirerepair.com";
+    const root = process.env.NEXT_PUBLIC_SITE_URL || "https://tireservicepros.com";
     return `${root.replace(/\/$/, "")}/${path.replace(/^\//, "")}`;
 }
 }),

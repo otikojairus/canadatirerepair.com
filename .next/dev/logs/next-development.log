@@ -1,17 +1,5 @@
-{"timestamp":"00:00:00.719","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:03.732","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:06:04.128","source":"Server","level":"LOG","message":"✓ Compiled in 146ms"}
-{"timestamp":"00:06:04.391","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/tire-hero-home.webp\" 404"}
-{"timestamp":"00:06:04.403","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/tire-hero-home.webp\" 404"}
-{"timestamp":"00:06:04.408","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/tire-emergency.webp\" 404"}
-{"timestamp":"00:06:04.469","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/tire-door.webp\" 404"}
-{"timestamp":"00:06:04.473","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/tire-storefront.webp\" 404"}
-{"timestamp":"00:06:04.491","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/tire-commercial-door.webp\" 404"}
-{"timestamp":"00:06:04.519","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/tire-storefront.webp\" 404"}
-{"timestamp":"00:06:04.521","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/tire-commercial.webp\" 404"}
-{"timestamp":"00:06:04.538","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/tire-aluminum-door.webp\" 404"}
-{"timestamp":"00:06:04.564","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/tire-board-up.webp\" 404"}
-{"timestamp":"00:06:04.568","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/tire-emergency.webp\" 404"}
-{"timestamp":"00:06:04.588","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/tire-storefront-window.webp\" 404"}
-{"timestamp":"00:06:04.602","source":"Server","level":"ERROR","message":"⨯ \"internal image response failed for\" \"/images/tire-hero-service.webp\" 404"}
-{"timestamp":"00:06:24.848","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:01.247","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:03.203","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:04.343","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:05.410","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:02:22.942","source":"Server","level":"LOG","message":"✓ Compiled in 156ms"}

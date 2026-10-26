@@ -883,8 +883,8 @@ const NATIONAL_PAGES = PAGES.filter(_c = (p)=>p.kind === "national");
 _c1 = NATIONAL_PAGES;
 const CITY_PAGES = PAGES.filter(_c2 = (p)=>p.kind === "city");
 _c3 = CITY_PAGES;
-const PHONE_DISPLAY_DEFAULT = "1-888-XXX-XXXX";
-const PHONE_E164_DEFAULT = "+1888XXXXXXX";
+const PHONE_DISPLAY_DEFAULT = "1-888-971-0910";
+const PHONE_E164_DEFAULT = "+18889710910";
 function isPlaceholderPhone(value) {
     return !value || /x{2,}/i.test(value) || value.includes("XXX");
 }
@@ -911,7 +911,7 @@ function serviceBaseSlug(slug) {
     return slug;
 }
 function absoluteUrl(path = "") {
-    const root = __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].env.NEXT_PUBLIC_SITE_URL || "https://canadatirerepair.com";
+    const root = __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].env.NEXT_PUBLIC_SITE_URL || "https://tireservicepros.com";
     return `${root.replace(/\/$/, "")}/${path.replace(/^\//, "")}`;
 }
 var _c, _c1, _c2, _c3;
